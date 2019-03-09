@@ -9,7 +9,7 @@ the following are the guidlines i followed:
 4. Remove the left and right margin for the devices below the 992px
 5. Remember to keep in mind the mobile-first approach
 
-Check out my completed Challenge [here] (https://responsive-design-challenge-gatorwam19.c9users.io/index.html)
+Check out my completed Challenge [here](https://responsive-design-challenge-gatorwam19.c9users.io/index.html)
 
 ## Technology
 This project was written in HTML and CSS using Cloud9 and is currently hosted on GitHub pages.
